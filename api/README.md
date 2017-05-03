@@ -223,3 +223,5 @@ For additional information, see jasypt spring boot [documentation](https://githu
 
 Tip: If using GitLab CI Runner, specify the value for JASYPT_ENCRYPTOR_PASSWORD as a secure variable. Secure variables can be added to a Gitlab project by navigating to Project Settings > Variables > Add Variable. 
 A secure variable's value is by default not visible in the build log and can only be configured by an administrator of a project.
+
+update to trigger build
