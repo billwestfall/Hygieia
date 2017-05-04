@@ -67,3 +67,4 @@ Jenkins plugin allows Hygieia to create link between code commit, build, artifac
 ![Image](/media/images/h2-health-details.png)
 
 change to kick off build
+kick off another build
