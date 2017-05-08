@@ -232,3 +232,4 @@ mvn sonar:sonar -Dsonar.host.url=http://$(docker-machine ip default):9000 -Dsona
 ```bash
 nohup java -jar <collector-name>.jar --spring.config.name=<property file name> & >/dev/null
 ```
+another commit to trigger build
