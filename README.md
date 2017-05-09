@@ -49,7 +49,7 @@ This project adheres to the [Open Code of Conduct][code-of-conduct]. By particip
 [code-of-conduct]: http://www.capitalone.io/codeofconduct/
 
 
-### How to Start
+### How to Start with Hygieia
 [Setup Instructions](Setup.md)
 
 ### Overview
