@@ -78,6 +78,7 @@
         </configuration>
         <executions>
           <execution>
+            <!-- update to kick off build, see if it effects dashboard numbers -->
             <!-- Note: Today we make the containers optional, we want these
               standard we should uncomment this: -->
             <!--<phase>package</phase>-->
